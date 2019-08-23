@@ -18,7 +18,7 @@
 - 生成数据表以及部分初始数据 `php artisan migrate --seed` 
 - 配置域名(按laravel项目正常配置即可,解析到public目录)
 - 如发现权限相关问题 执行 chown -R 用户名:用户组 项目目录
-- 测试反问：`http://xxx.test`，是否出现laravel初始页面
+- 测试访问：`http://xxx.test`，是否出现laravel初始页面
 
 
 
