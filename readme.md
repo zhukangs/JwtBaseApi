@@ -7,7 +7,7 @@
 
 ## 项目简介
 
-- 一套Laravel基于JWT的基础Api🍺
+- 一套Laravel基于JWT的基础API 🍺
 
 ## 安装教程
 
